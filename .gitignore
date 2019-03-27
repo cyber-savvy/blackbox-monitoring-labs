@@ -1,6 +1,5 @@
-#  Local .terraform directories
 **/.idea/*
-prometheus-grafana-stack/.terraform/*
+**/.terraform/*
 
 *.iml
 # .tfstate files
